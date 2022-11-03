@@ -7,3 +7,4 @@ while True: # 無限ループ
     if r == 77:
         break
 print(str(cnt) + "回目でゲット")
+print("完了")
