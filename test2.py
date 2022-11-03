@@ -1,0 +1,2 @@
+txt = "はじめてのpython"
+print(txt)
