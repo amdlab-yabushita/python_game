@@ -1,6 +1,6 @@
 import random
 cnt = 0
-while True: # 無限ループ
+while True: 
     r = random.randint(1,100)
     print(r)
     cnt = cnt + 1
